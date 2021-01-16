@@ -1,8 +1,10 @@
 ## Hi, I'm Jeffrey! 👋
-<a href="https://www.facebook.com/profile.php?id=1439766766" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
 
+<p>
+    <a href="https://www.facebook.com/profile.php?id=1439766766" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+</p>
 
 I'm a **team-driving augmentation-inspired** software engineer with experience in product innovation and community leadership.
 
