@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Jeffrey! 👋
 
-<!--
-**jleung51/jleung51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **team-driving augmentation-inspired** software engineer with experience in product innovation and community leadership.
 
-Here are some ideas to get you started:
+Previously, I've worked at SAP and Samsung and have been to 7 hackathons (and counting!). I've also worked on projects relating to:
+- The Ugandan health care system
+- COVID-19 relief initiative for struggling local healthcare workers and restaurants
+- Mesh networks for disaster relief communication
+- Mobile payment system infrastructure
+- Virtual corporate engagement
+- Healthcare patient information access
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="./profile-picture.jpg" align="left" width="300" />
+
+📖 **I'm currently reading:** Steve Jobs by Walter Isaacson, and A Song of Ice and Fire by G.R.R. Martin.
+
+👪 **Looking to collaborate on:** Community-building initiatives!
+
+❓ **Ask me about:** My hackathon projects and cyberpunk book recommendations!
+
+🤝 **Connect with me on:**: [LinkedIn](https://www.linkedin.com/in/jleung51/), [Facebook](https://www.facebook.com/profile.php?id=1439766766)
