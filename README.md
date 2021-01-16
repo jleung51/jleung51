@@ -23,6 +23,8 @@ I've previously worked at SAP and Samsung and have been to 7 hackathons (and cou
 
 <img src="./profile-picture.jpg" align="left" width="300" />
 
+Here's some more info about me:
+
 📖 **I'm currently reading:** Steve Jobs by Walter Isaacson, and A Song of Ice and Fire by G.R.R. Martin
 
 🎮 **I'm currently playing:** Genshin Impact, Witcher 3: Blood & Wine
