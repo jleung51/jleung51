@@ -18,7 +18,7 @@ I'm a **team-driving augmentation-inspired** software engineer with experience i
 
 I've previously worked at SAP and Samsung and have been to 7 hackathons (and counting).
 
-<img src="./profile-picture-surrey.jpg" align="left" width="300" />
+<img src="./profile-picture-full.jpg" align="left" width="300" />
 
 Here's some more info about me:
 
@@ -30,5 +30,5 @@ Here's some more info about me:
 
 ❓ **Ask me about:** My hackathon projects and cyberpunk book recommendations! (what a nerd)
 
-🤝 **Connect with me on:**: [LinkedIn](https://www.linkedin.com/in/jleung51/), [Facebook](https://www.facebook.com/profile.php?id=1439766766)
+🤝 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/jleung51/), [Facebook](https://www.facebook.com/profile.php?id=1439766766)
 
