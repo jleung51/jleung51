@@ -18,7 +18,7 @@ I'm a **team-driving augmentation-inspired** software engineer with experience i
 
 I've previously worked at SAP and Samsung and have been to 7 hackathons (and counting).
 
-<img src="./profile-picture.jpg" align="left" width="300" />
+<img src="./profile-picture-surrey.jpg" align="left" width="300" />
 
 Here's some more info about me:
 
