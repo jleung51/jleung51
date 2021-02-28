@@ -22,9 +22,9 @@ I've previously worked at SAP and Samsung and have been to 7 hackathons (and cou
 
 Here's some more info about me:
 
-📖 **I'm currently reading:** Steve Jobs by Walter Isaacson, and A Song of Ice and Fire by G.R.R. Martin
+📖 **I'm currently reading:** Dune (currently on God Emperor) by Frank Herbert, Steve Jobs by Walter Isaacson, and A Song of Ice and Fire by G.R.R. Martin
 
-🎮 **I'm currently playing:** Genshin Impact, Witcher 3: Blood & Wine
+🎮 **I'm currently playing:** Genshin Impact, Hollow Knight, Witcher 3: Blood & Wine
 
 👪 **Looking to collaborate on:** Community-building initiatives!
 
