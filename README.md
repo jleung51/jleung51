@@ -22,13 +22,13 @@ I've previously worked at SAP and Samsung and have been to 7 hackathons (and cou
 
 Here's some more info about me:
 
-📖 **I'm currently reading:** Dune (currently on God Emperor) by Frank Herbert, Steve Jobs by Walter Isaacson, and A Song of Ice and Fire by G.R.R. Martin
+📖 **I'm currently reading:**  [A Long Petal of the Sea by Isabel Allende](https://www.goodreads.com/book/show/46042377-a-long-petal-of-the-sea), [Steve Jobs by Walter Isaacson](https://www.goodreads.com/book/show/11084145-steve-jobs), and [The Inconvenient Indian by Thomas King](https://www.goodreads.com/book/show/15797509-the-inconvenient-indian)
 
-🎮 **I'm currently playing:** Genshin Impact, Hollow Knight, Witcher 3: Blood & Wine
+🎮 **I'm currently playing:** Genshin Impact, Apex Legends, Witcher 3: Blood & Wine
 
 👪 **Looking to collaborate on:** Community-building initiatives!
 
-❓ **Ask me about:** My hackathon projects and cyberpunk book recommendations! (what a nerd)
+❓ **Ask me about:** My hackathon projects and cyberpunk/sci-fi book recommendations! (what a nerd)
 
 🤝 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/jleung51/), [Facebook](https://www.facebook.com/profile.php?id=1439766766)
 
