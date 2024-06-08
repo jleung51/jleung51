@@ -33,6 +33,6 @@ Here's some more info about me:
 🤝 **Connect with me on:** [LinkedIn](https://www.linkedin.com/in/jleung51/), [Facebook](https://www.facebook.com/profile.php?id=1439766766)
 
 ```math
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 200vw; opacity: 0.5; background: url('https://github.com/jleung51/jleung51/blob/main/rilakkuma.jpg?raw=true');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 200vw; opacity: 0.5; background: url('https://github.com/jleung51/jleung51/blob/main/3-coffees-no-lunch.jpg?raw=true');]{x0000}$}
 
 
