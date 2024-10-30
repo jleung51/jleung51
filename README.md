@@ -16,7 +16,7 @@ ___
 
 I'm a **team-driving augmentation-inspired** software engineer with experience in product innovation and community leadership.
 
-I'm currently at Amazon, I've previously worked at SAP and Samsung, and have been to 8 hackathons (and counting).
+I'm currently at Meta, I've previously worked at Amazon, SAP, and Samsung, and have been to 8 hackathons (and counting).
 
 <img src="./profile-picture-2024-positano.jpg" align="left" width="300" />
 
